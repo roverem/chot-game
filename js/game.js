@@ -29,7 +29,7 @@ function create ()
     //var pic = this.add.image(509, 346, 'pic');
 
     this.add.image(100, 60, 'logo');
-	this.add.image(0, 0, 'fer');    
+	this.add.image(0, 200, 'fer');    
 	
 	graphics = this.add.graphics();
 	
