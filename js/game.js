@@ -21,7 +21,7 @@ function preload ()
 	
 	this.load.image('tiles', 'assets/tilemaps/tiles/DeepForestTileset.png');
     this.load.tilemapTiledJSON('map', 'assets/tilemaps/map.json');
-	this.load.image('fer', 'assets\sprites\background_test.bmp');
+	this.load.image('fer', 'assets\sprites\background_test.png');
 }
 
 function create ()
