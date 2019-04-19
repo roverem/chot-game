@@ -1,0 +1,24 @@
+{
+  "name": "chot-game",
+  "version": "1.0.0",
+  "description": "First Chot Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roverem/chot-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roverem/chot-game/issues"
+  },
+  "homepage": "https://github.com/roverem/chot-game#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
